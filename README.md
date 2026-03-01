@@ -1,20 +1,32 @@
 # 🍔 Urban.Lunch – Android QA Testing Project
-📌 Project Overview
+
+---
+## 📌 Project Overview
 This repository documents the Manual Functional Testing process performed on the first version of Urban.Lunch, an Android application designed to allow users to customize and order meals from different restaurants with pickup at designated collection points.
 The main goal of this project was to validate that the application met its functional requirements and delivered a stable, consistent, and user-friendly experience before release.
-🎯 Testing Objectives
+
+---
+
+## 🎯 Testing Objectives
+
 Validate functional requirements.
 Verify business rules.
 Detect critical defects before production.
 Evaluate usability and UI consistency.
 Ensure correct screen navigation.
 Validate end-to-end user flows.
-🛠 Environment & Tools
+
+---
+
+## 🛠 Environment & Tools
 Platform: Android
 Testing Environment: Android Studio (Android Emulator)
 Bug Tracking Tool: JIRA
 Testing Type: Manual Functional Testing
-📋 Testing Scope
+
+---
+
+## 📋 Testing Scope
 The following modules were validated:
 User Registration & Login
 Main Navigation
@@ -25,12 +37,16 @@ Pickup Point Selection
 Order Confirmation
 Required Field Validations
 Error Handling
-🧪 Testing Strategy
+
+---
+
+## 🧪 Testing Strategy
+
 1️⃣ Requirements Analysis
-Functional requirement interpretation.
-Identification of acceptance criteria.
-Definition of positive and negative scenarios.
-Risk-based thinking to identify potential failure points.
+    Functional requirement interpretation.
+    Identification of acceptance criteria.
+    Definition of positive and negative scenarios.
+    Risk-based thinking to identify potential failure points.
 2️⃣ Test Case Design
 49 manual test cases created.
 Test cases organized by requirement for traceability.
