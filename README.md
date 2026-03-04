@@ -1,5 +1,10 @@
 # 🍔 Urban.Lunch – Android QA Testing Project
 
+![restaurantes_apps_pixabay](https://github.com/user-attachments/assets/2b3c6e4d-930e-4421-a1e8-d6a6d94e098e)
+
+
+
+
 ## 📌 Project Overview
 
 This repository documents the **Manual Functional Testing process** performed on the first version of **Urban.Lunch**, an Android application that allows users to customize and order meals from different restaurants with pickup at designated collection points.
