@@ -57,7 +57,7 @@ The following modules were validated:
 
 ### 2️⃣ Test Case Design
 
-- 49 manual test cases created  
+- 64 manual test cases created  
 - Test cases organized by requirement for traceability  
 - Each test case included:
   - Test Case ID  
@@ -104,7 +104,7 @@ Each defect was documented including:
 
 ## 📊 Results
 
-- ✅ 49 test cases designed and executed  
+- ✅ 64 test cases designed and executed  
 - ✅ 4 critical defects identified  
 - ✅ 100% functional requirement coverage  
 - ✅ Improved application stability before release  
